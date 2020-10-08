@@ -1,3 +1,6 @@
+# extracting colors folder
+tar xvzf colors.tar.gz
+
 # installing git
 sudo apt install git
 
